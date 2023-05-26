@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zaid Alyafeai"
-  avatar           : "Images/profile_pic.jpeg"
+  avatar           : "https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/profile_pic.jpeg"
   bio              : "NLP Researcher"
   location         : "Saudi Arabia"
   employer         :
