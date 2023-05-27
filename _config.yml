@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Zaid's Personal Website"
 title_separator          : "-"
 name                     : &name "Zaid Alyafeai"
 description              : &description "personal description"
