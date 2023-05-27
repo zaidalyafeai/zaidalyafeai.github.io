@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zaid Alyafeai / Profile"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Zaid Alyafeai"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "NLP Researcher"
   location         : "Saudi Arabia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/scientific-contributions/Zaid-Alyafeai-2163389779"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

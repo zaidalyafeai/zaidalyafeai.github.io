@@ -11,36 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science & Mathematics, KFUPM, 2016
+* M.S. in Computer Science, KFUPM, 2019
+* Ph.D in Computer Science, KFUPM, 2023 (expected)
 
-Work experience
+Teaching Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Assistant
+  * Instructor ICS 104 on Python
+* Summer 2021, 2022 & 2023:
+  * Teaching Assistant Summer school on Data Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+======
+* Spring 2022: Research Assistant
+  * Instructor ICS 104 on Python
+* Summer 2021, 2022 & 2023:
+  * Teaching Assistant Summer school on Data Science
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Machine Learning
+  * Python, Pytorch & TensorFlow
+  * Multi-GPU Training & Inference
+  * TPU Training 
   
 Talks
 ======
@@ -48,12 +42,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Leading [ARBML](https://arbml.github.io/website/) an open source initiative for Arabic NLP.
+* Founding Member of [fihm.ai](https://fihm.ai/). An initiative to release Arabic AI resources. 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
