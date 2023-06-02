@@ -31,7 +31,7 @@ My thesis is about incorporating Morphology into language understanding for Arab
 
 * **[12/05/2022]** Invited talk titled "Masader: Documenting Arabic NLP Data Resources" at [IWABigDAI](https://www.hbku.edu.qa/en/academic-events/CHSS-AI-IWABDAI). Check [slides](https://docs.google.com/presentation/d/1Ax-L3Q9W4iFC02qYdCB3TXq9Z1HCumKQ0focakbEUr4/edit?usp=sharing). 
 
-* **[07/05/2022]** [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://aclanthology.org/2022.acl-demo.9/) has been accepted in the **ACL demo track 2022**. 
+* **[07/05/2022]** [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://aclanthology.org/2022.acl-demo.9/) has been accepted in the demo track of **ACL 2022**. 
 
 * **[18/04/2022]** [Masader: Metadata Sourcing for Arabic Text and Speech Data Resources
 ](https://arxiv.org/abs/2110.06744) has been accepted  at **LREC 2022**.
