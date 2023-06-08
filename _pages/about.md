@@ -19,6 +19,7 @@ My thesis is about incorporating Morphology into language understanding for Arab
 
 ## News 
 
+* **[06/08/2023]** [NLP-OSS](https://nlposs.github.io/2023/index.html) program committe member **EMNLP 2023**. 
 * **[31/05/2023]** Invited talk titled "Teach Me Once I Learn Much More: Fine Tuned LLMs are Zeroshot Task Generalizers" at [JCRAI KFUPM](https://ri.kfupm.edu.sa/jrcai). Check [slides](https://docs.google.com/presentation/d/1XKIM61WZq02iqjcFP6Nm9sOVWGvxGQYNrvjjK8Kunbc/edit?usp=sharing).
 
 * **[30/05/2023]** Reached 1,000 citations on [google scholar](https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en).
