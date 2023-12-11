@@ -18,9 +18,10 @@ I am a PhD candidate at [KFUPM](http://www.kfupm.edu.sa/Default.aspx) expected t
 My thesis is about incorporating Morphology into language understanding for Arabic. I target this task from different aspects including tokenization, text generation, interpretability, and cross lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy and morphology. My interest also includes working on NLP for low resource languages.
 
 ## Latest News
+* **[07/12/2023]** Attended the Arabic NLP conference at **EMNLP 2023**. 
 * **[31/10/2023]** A presentation at [KSGAAL](https://ksaa.gov.sa/) about Arabic poetry generation and analysis. Check slides [Google Slides](https://docs.google.com/presentation/d/1dT-s3AD16FE7aWb2QA8T9b7KhTvwt0DWL1u1fkvgZ5o/edit?usp=sharing). 
 * **[28/10/2023]** Reached +2000 citations on [Google Scholar](https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en). 
-* **[12/10/2023]** [Investigating Zero-shot Cross-lingual Language Understanding for Arabic]() accepted at [ArabicNLP](https://arabicnlp2023.sigarab.org/) co-located with **EMNLP 2023**. 
+* **[12/10/2023]** [Investigating Zero-shot Cross-lingual Language Understanding for Arabic](https://aclanthology.org/2023.arabicnlp-1.26.pdf) accepted at [ArabicNLP](https://arabicnlp2023.sigarab.org/) co-located with **EMNLP 2023**. 
 * **[10/09/2023]** [ArabicNLP](https://arabicnlp2023.sigarab.org/) program committe member co-located with **EMNLP 2023**.  
 * **[12/07/2023]** [Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches](https://arxiv.org/abs/2307.06218) published on arXiv. 
 * **[29/06/2023]** [Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models](https://arxiv.org/abs/2306.16322) published on arXiv. 
