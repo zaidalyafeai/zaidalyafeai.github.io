@@ -18,6 +18,7 @@ I am a PhD candidate at [KFUPM](http://www.kfupm.edu.sa/Default.aspx) expected t
 My thesis is about incorporating Morphology into language understanding for Arabic. I target this task from different aspects including tokenization, text generation, interpretability, and cross lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy and morphology. My interest also includes working on NLP for low resource languages.
 
 ## Latest News
+* **[06/02/2024]** [CIDAR: Culturally Relevant Instruction Dataset For Arabic](https://arxiv.org/pdf/2402.03177.pdf) published on arXiv. 
 * **[01/01/2024]** Successfully defended my PhD thesis.
 * **[07/12/2023]** Attended the Arabic NLP conference at **EMNLP 2023**. 
 * **[31/10/2023]** A presentation at [KSGAAL](https://ksaa.gov.sa/) about Arabic poetry generation and analysis. Check slides [Google Slides](https://docs.google.com/presentation/d/1dT-s3AD16FE7aWb2QA8T9b7KhTvwt0DWL1u1fkvgZ5o/edit?usp=sharing). 
