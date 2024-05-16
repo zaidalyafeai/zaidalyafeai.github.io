@@ -18,6 +18,7 @@ I defended my PhD thesis from [KFUPM](http://www.kfupm.edu.sa/Default.aspx) in J
 My thesis is about incorporating Morphology into language understanding for Arabic. I target this task from different aspects including tokenization, text generation, interpretability, and cross-lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy, and morphology. My interest also includes working on NLP for low-resource languages.
 
 ## Latest News
+* **[20/02/2024]** Three papers accepted at ACL 2024: [CIDAR](https://arxiv.org/pdf/2402.03177.pdf), [ArabicMMLU](https://arxiv.org/pdf/2402.12840.pdf), and [Aya Dataset](https://arxiv.org/pdf/2402.06619.pdf).
 * **[18/03/2024]** Started a research internship at Stability AI.
 * **[20/02/2024]** [ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic](https://arxiv.org/pdf/2402.12840.pdf) published on arXiv.
 * **[13/02/2024]** [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/pdf/2402.06619.pdf) published on arXiv. 
