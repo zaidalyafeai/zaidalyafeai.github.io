@@ -9,17 +9,19 @@ redirect_from:
 ---
 
 ## Who I am
-I defended my PhD thesis from [KFUPM](http://www.kfupm.edu.sa/Default.aspx) in January 2024. I am the co-founder of [arbml](https://arbml.github.io/website/) an initiative to support Arabic NLP research and tools. I am also a founding member of [fihmai](https://fihm.ai), which targets publishing resources that enrich AI content in Arabic. I was part of [bigscience](https://bigscience.huggingface.co/), where I helped in multiple working groups including Tokenization, Data sourcing, and Prompting. I am currently a member of [C4AI](https://cohere.for.ai/) an open research environment where we I co-lead the Arabic effort. I mostly hangout in our arbml [discord](https://discord.gg/aN2vaec9nV) if you want to connect to me or drop me a message using <a href="mailto:alyafey22@gmail@@com"
+I defended my PhD thesis from [KFUPM](http://www.kfupm.edu.sa/Default.aspx) in January 2024. I am the co-founder of [arbml](https://arbml.github.io/website/) an initiative to support Arabic NLP research and tools. I am also a founding member of [fihmai](https://fihm.ai), which targets publishing resources that enrich AI content in Arabic. I was part of [bigscience](https://bigscience.huggingface.co/), where I helped in multiple working groups including Tokenization, Data sourcing, and Prompting. I am currently a member of [C4AI](https://cohere.for.ai/) an open research environment where I co-lead the Arabic effort. I mostly hangout in our arbml [discord](https://discord.gg/aN2vaec9nV) if you want to connect to me or drop me a message using <a href="mailto:alyafey22@gmail@@com"
    onmouseover="this.href=this.href.replace('@@','.')">
    my email</a>. 
 
 ## Research Interests
 
-My thesis is about incorporating Morphology into language understanding for Arabic. I target this task from different aspects including tokenization, text generation, interpretability, and cross-lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy, and morphology. My interest also includes working on NLP for low-resource languages.
+My thesis is about incorporating morphology into understanding the Arabic language. I target this task from different aspects including tokenization, text generation, interpretability, and cross-lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy, and morphology. My interest also includes working on NLP for low-resource languages.
 
 ## Latest News
-* **[20/02/2024]** Three papers accepted at ACL 2024: [CIDAR](https://arxiv.org/pdf/2402.03177.pdf), [ArabicMMLU](https://arxiv.org/pdf/2402.12840.pdf), and [Aya Dataset](https://arxiv.org/pdf/2402.06619.pdf).
+
+* **[11/08/2024]** [StanceEval 2024: The First Arabic Stance Detection Shared Task](https://aclanthology.org/2024.arabicnlp-1.88.pdf) published as part of the ArabicNLP 2024 conference. 
 * **[18/03/2024]** Started a research internship at Stability AI.
+* **[16/03/2024]** Three papers accepted at ACL 2024: [CIDAR](https://arxiv.org/pdf/2402.03177.pdf), [ArabicMMLU](https://arxiv.org/pdf/2402.12840.pdf), and [Aya Dataset](https://arxiv.org/pdf/2402.06619.pdf).
 * **[20/02/2024]** [ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic](https://arxiv.org/pdf/2402.12840.pdf) published on arXiv.
 * **[13/02/2024]** [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://arxiv.org/pdf/2402.06619.pdf) published on arXiv. 
 * **[06/02/2024]** [CIDAR: Culturally Relevant Instruction Dataset For Arabic](https://arxiv.org/pdf/2402.03177.pdf) published on arXiv. 
