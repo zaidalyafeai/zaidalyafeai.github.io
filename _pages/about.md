@@ -8,18 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-## Who I am
-I defended my PhD thesis from [KFUPM](http://www.kfupm.edu.sa/Default.aspx) in January 2024. I am the co-founder of [arbml](https://arbml.github.io/website/) an initiative to support Arabic NLP research and tools. I am also a founding member of [fihmai](https://fihm.ai), which targets publishing resources that enrich AI content in Arabic. I was part of [bigscience](https://bigscience.huggingface.co/), where I helped in multiple working groups including Tokenization, Data sourcing, and Prompting. I am currently a member of [C4AI](https://cohere.for.ai/) an open research environment where I co-lead the Arabic effort. I mostly hangout in our arbml [discord](https://discord.gg/aN2vaec9nV) if you want to connect to me or drop me a message using <a href="mailto:alyafey22@gmail@@com"
+## About Me
+I am currently a [postdoc](https://cemse.kaust.edu.sa/profiles/zaid-alyafeai) at KAUST working under Prof. Bernard Ghanem. I defended my PhD thesis at [KFUPM](http://www.kfupm.edu.sa/Default.aspx) in January 2024. I am the co-founder of [arbml](https://arbml.github.io/website/), an initiative to support Arabic NLP research and tools. I am also a founding member of [fihmai](https://fihm.ai), which targets publishing resources that enrich AI content in Arabic. I was part of [bigscience](https://bigscience.huggingface.co/), where I helped in multiple working groups including Tokenization, Data Sourcing, and Prompting. I am currently a member of [C4AI](https://cohere.for.ai/), an open research environment where I co-lead the Arabic effort. I mostly hang out in our arbml [discord](https://discord.gg/aN2vaec9nV) if you want to connect with me, or drop me a message using <a href="mailto:alyafey22@gmail@@com"
    onmouseover="this.href=this.href.replace('@@','.')">
    my email</a>. 
 
 ## Research Interests
 
-My thesis is about incorporating morphology into understanding the Arabic language. I target this task from different aspects including tokenization, text generation, interpretability, and cross-lingual understanding. I also like to target Arabic NLP from the PoV of culture, hence working on poetry, calligraphy, and morphology. My interest also includes working on NLP for low-resource languages.
+My current research interest is metadata extraction from the general domain, with a specific interest in scientific papers. I am also working extensively in Arabic NLP, specifically training culturally sensitive and safety-aware language models. 
+
 
 ## Latest News
-
-* **[11/08/2024]** [StanceEval 2024: The First Arabic Stance Detection Shared Task](https://aclanthology.org/2024.arabicnlp-1.88.pdf) published as part of the ArabicNLP 2024 conference. 
+* **[29/05/2026]** [Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](https://arxiv.org/pdf/2510.24081) published on arXiv. 
+* **[18/05/2026]** [CounterCount: A Diagnostic Framework for Counting Bias in Vision Language Models](https://arxiv.org/pdf/2605.17826) published on arXiv. 
+* **[03/04/2026]** Joined ARR communication team. 
+* **[04/03/2026]** Part of the organizing committee of ArabicNLP 2026. Scholarship and Awards co-chair.
+* **[21/02/2026]** [PromptLab: A Collaborative Platform for Prompt Engineering and
+Dataset Curation](https://aclanthology.org/2026.eacl-demo.18.pdf) accepted at EACL Demo 2026.
+* **[08/11/2025]** [MeXtract: Light-Weight Metadata Extraction from Scientific Papers](https://arxiv.org/pdf/2510.06889v1) published on arXiv.
+* **[01/10/2025]** Scientific Committee of KAUST Rising Stars in AI Symposium 2026.
+* **[03/09/2025]** [BALSAM: A Platform for Benchmarking Arabic Large Language Models](https://aclanthology.org/2025.arabicnlp-main.21.pdf) accepted at ArabicNLP 2025. 
+* **[20/08/2025]** [MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs](https://aclanthology.org/2025.findings-emnlp.655.pdf) accepted to EMNLP Findings 2025.
+* **[11/09/2024]** Part of the organizing committee of ArabicNLP 2025. Scholarship and Awards co-chair.
 * **[18/03/2024]** Started a research internship at Stability AI.
 * **[16/03/2024]** Three papers accepted at ACL 2024: [CIDAR](https://arxiv.org/pdf/2402.03177.pdf), [ArabicMMLU](https://arxiv.org/pdf/2402.12840.pdf), and [Aya Dataset](https://arxiv.org/pdf/2402.06619.pdf).
 * **[20/02/2024]** [ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic](https://arxiv.org/pdf/2402.12840.pdf) published on arXiv.
@@ -30,17 +40,17 @@ My thesis is about incorporating morphology into understanding the Arabic langua
 * **[31/10/2023]** A presentation at [KSGAAL](https://ksaa.gov.sa/) about Arabic poetry generation and analysis. Check slides [Google Slides](https://docs.google.com/presentation/d/1dT-s3AD16FE7aWb2QA8T9b7KhTvwt0DWL1u1fkvgZ5o/edit?usp=sharing). 
 * **[28/10/2023]** Reached +2000 citations on [Google Scholar](https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en). 
 * **[12/10/2023]** [Investigating Zero-shot Cross-lingual Language Understanding for Arabic](https://aclanthology.org/2023.arabicnlp-1.26.pdf) accepted at [ArabicNLP](https://arabicnlp2023.sigarab.org/) co-located with **EMNLP 2023**. 
-* **[10/09/2023]** [ArabicNLP](https://arabicnlp2023.sigarab.org/) program committe member co-located with **EMNLP 2023**.  
+* **[10/09/2023]** [ArabicNLP](https://arabicnlp2023.sigarab.org/) program committee member co-located with **EMNLP 2023**.  
 * **[12/07/2023]** [Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches](https://arxiv.org/abs/2307.06218) published on arXiv. 
 * **[29/06/2023]** [Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models](https://arxiv.org/abs/2306.16322) published on arXiv. 
-* **[06/08/2023]** [NLP-OSS](https://nlposs.github.io/2023/index.html) program committe member co-located with **EMNLP 2023**. 
+* **[06/08/2023]** [NLP-OSS](https://nlposs.github.io/2023/index.html) program committee member co-located with **EMNLP 2023**. 
 * **[31/05/2023]** Invited talk titled "Teach Me Once I Learn Much More: Fine Tuned LLMs are Zeroshot Task Generalizers" at [JCRAI KFUPM](https://ri.kfupm.edu.sa/jrcai). Check [slides](https://docs.google.com/presentation/d/1XKIM61WZq02iqjcFP6Nm9sOVWGvxGQYNrvjjK8Kunbc/edit?usp=sharing).
 
 * **[30/05/2023]** Reached 1,000 citations on [google scholar](https://scholar.google.com/citations?user=vb6w6j4AAAAJ&hl=en).
 
 * **[27/05/2023]** [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786) has been accepted as a poster presentation at **ACL 2023**. 
 
-* **[27/10/2022]** [Second](https://twitter.com/Thakaa_Center/status/1585627910206939136) in the AI in sport challenge orgnaized by the Ministry of Sports. 
+* **[27/10/2022]** [Second](https://twitter.com/Thakaa_Center/status/1585627910206939136) in the AI in Sports challenge organized by the Ministry of Sports. 
 
 * **[19/09/2022]** [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://arxiv.org/abs/2303.03915) has been accepted at Datasets and Benchmarks track **NeurIPS 2022**.
 
@@ -49,13 +59,13 @@ My thesis is about incorporating morphology into understanding the Arabic langua
 * **[07/05/2022]** [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://aclanthology.org/2022.acl-demo.9/) has been accepted in the demo track of **ACL 2022**. 
 
 * **[18/04/2022]** [Masader: Metadata Sourcing for Arabic Text and Speech Data Resources
-](https://arxiv.org/abs/2110.06744) has been accepted  at **LREC 2022**.
+](https://arxiv.org/abs/2110.06744) has been accepted at **LREC 2022**.
 
-* **[20/01/2022]** [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207) has been accepted  as a spotlight at **ICLR 2022**.
+* **[20/01/2022]** [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207) has been accepted as a spotlight at **ICLR 2022**.
 
 * **[22/02/2021]** [Arabic Compact Language Modelling for Resource Limited Devices
 ](https://aclanthology.org/2021.wanlp-1.6/) accepted at **WANLP 2021**. 
 
 * **[26/09/2020]** [ARBML: Democratizing Arabic Natural Language Processing Tools](https://aclanthology.org/2020.nlposs-1.2.pdf) accepted at **NLP-OSS 2020**.
 
-* **[19/09/2020]** passed the PhD comperhensive exam. 
+* **[19/09/2020]** Passed the PhD comprehensive exam. 
